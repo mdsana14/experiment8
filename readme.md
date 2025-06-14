@@ -20,3 +20,11 @@ node server.js
 
  github repo:
  https://github.com/mdsana14/experiment8.git
+
+ Screenshots:
+
+![Screenshot (7)](https://github.com/user-attachments/assets/da18280a-a07c-4d98-9e0d-0b041bfc6aa4)
+
+ 
+
+ 
